@@ -3,7 +3,7 @@ package checking;
 import java.util.Scanner;
 
 public class BlankSpace 
-{
+{  
 	public void blank()
 	{
 		System.out.println("Enter Number: ");

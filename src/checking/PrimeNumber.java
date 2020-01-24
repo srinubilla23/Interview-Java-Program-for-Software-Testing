@@ -12,7 +12,7 @@ public class PrimeNumber
 		boolean flag=true;
 		
 		for(int i=2; i<=in/2; i++)
-		{
+		{  
 			if(in%i==0)
 			{	
 				flag=true;

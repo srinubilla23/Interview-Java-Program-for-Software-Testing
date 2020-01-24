@@ -18,7 +18,7 @@ public class Test1
 	  Sheet sh1=wb1.getSheet(0);
 	  int row1=sh1.getRows();
 	  int col1=sh1.getColumns();
-	  
+	    
 	  File f2=new File("F:\\EclipseProject\\ex.xlsx");
 	  Workbook wb2=Workbook.getWorkbook(f2);
 	  Sheet sh2=wb2.getSheet(1);
