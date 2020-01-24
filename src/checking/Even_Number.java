@@ -12,7 +12,7 @@ public class Even_Number
 		
 		for(int i=2; i<=in; i++)
 		{
-			if(i%2==0)  
+			if(i%2==0)   
 			{
 				System.out.println("Even Number: " + i);
 			}
